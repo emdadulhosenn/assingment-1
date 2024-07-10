@@ -1,0 +1,76 @@
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.background-image{
+    height: 652px;
+    width: 1440px;
+    position: absolute;
+    margin-top: 131px;
+    margin-bottom: 4462px;
+}
+.banner-upper-image{
+    position: absolute;
+    height: 240px;
+    width: 240px;
+    top: 175px;
+    bottom: 0px;
+    right: 600px;
+    left: 600px;
+}
+
+.banner-title{
+    position: absolute;
+    font-weight: 800;
+    font-size: 48px;
+    color: #0D1321;
+    text-align: center;
+    height: 136px;
+    width: 998px;
+    top: 429px;
+    bottom: 0px;
+    left: 221px;
+    right: 221px;
+    line-height: 68px;
+
+
+}
+
+.banner-description{
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    color: #0D1321;
+    text-align: center;
+    height: 52px;
+    width: 852px;
+    top: 589px;
+    bottom: 0px;
+    left: 294px;
+    right: 294px;
+    line-height: 26px;
+
+}
+
+.btn{
+    position: absolute;
+background-color: #0D1321;
+font-weight: 400;
+color: #FFFFFF;
+padding: 21px 24px 21px 24px;
+border-radius: 5px;
+top: 700px;
+right: 598px;
+left: 598px;
+height: 66px;
+width: 208px;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+justify-content: center;
+}
+    
